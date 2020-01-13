@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/../servlets/pom.xml" />
         <option value="$PROJECT_DIR$/../jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/../JPA/pom.xml" />
       </list>
     </option>
   </component>
